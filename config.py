@@ -1,0 +1,5 @@
+DBNAME="somedb"
+USER="someuser"
+PASSWORD="somepass"
+PORT="someport"
+PASSWORD_ENCRYPTION_KEY="youranyencryptionkey"
