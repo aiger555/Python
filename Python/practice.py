@@ -173,7 +173,7 @@ import string, random
 #     beeline = []
 #     o = []
 #     megakom = []
-# https://gist.github.com/eshenkulovilias/e842de3a958ceea00465237ce04c9b76
+
 #     def __init__(self):
 #         self.code = ['+996777', '+996222', '+996555', '+996500']
        
